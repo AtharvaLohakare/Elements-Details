@@ -37,23 +37,23 @@ If found, it prints the element's properties; otherwise, it displays an error me
 Enter element name or symbol :  oxygen
 
 Element Details:                  <br>
-Name         : oxygen                   <br>
+Name         : oxygen             <br>
 Symbol       : o                  <br>
 Atomic Number: 8                  <br>
-Group        : 16                  <br>
+Group        : 16                 <br>
 Period       : 2                  <br>
-Atomic Mass  : 15.999 u                  <br>
+Atomic Mass  : 15.999 u           <br>
 
-Enter element name or symbol :  Au                  <br>
+Enter element name or symbol :  Au     <br>
 
 Element Details:                  <br>
-Name         : gold                  <br>
-Symbol       : au                  <br>
-Atomic Number: 79                  <br>
-Group        : 11                  <br>
+Name         : gold               <br>
+Symbol       : au                 <br>
+Atomic Number: 79                 <br>
+Group        : 11                 <br>
 Period       : 6                  <br>
-Atomic Mass  : 196.970 u                  <br>
+Atomic Mass  : 196.970 u               <br>
 
-Enter element name or symbol: XYZ                  <br>
+Enter element name or symbol: XYZ      <br>
 
-Element not found.                  <br>
+Element not found.                <br>
